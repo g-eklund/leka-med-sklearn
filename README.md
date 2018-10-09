@@ -10,5 +10,9 @@ Minimal working example of sklearn with some of the preprocessing features one c
 
 #### ML
  
-RFregressor
-XGBoost
+* Regression
+  * sci-kit RFregressor
+  * XGBoost regressor
+* Classification
+  * sci-kit RFClassifier
+  * XGBoost classifier  
