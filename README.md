@@ -6,7 +6,13 @@ Minimal working example of sklearn with some of the preprocessing features one c
 #### Dimenasionality reduction techniques
 * tSNE
 * PCA
+* NMF
+* LDA
 * kPCA
+* Also minmax-scaler, standard-scaler, labelencoder
+
+
+
 
 #### ML
  
